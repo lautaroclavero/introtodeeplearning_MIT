@@ -7,3 +7,4 @@ TensorFlow is a software library extensively used in machine learning. Here we'l
 ## Part 2: Music Generation with RNNs
 In the second portion of the lab, we will play around with building a Recurrent Neural Network (RNN) for music generation. We will be using a "character RNN" to predict the next character of sheet music in ABC notation. Finally, we will sample from this model to generate a brand new music file that has never been heard before!
 
+HOLA MUNDO
