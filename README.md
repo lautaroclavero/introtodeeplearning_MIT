@@ -44,3 +44,5 @@ Licensed under the MIT License. You may not use this file except in compliance w
 > © MIT Introduction to Deep Learning
 >
 > http://introtodeeplearning.com
+
+adios mundo cruel
