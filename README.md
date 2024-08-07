@@ -45,4 +45,5 @@ Licensed under the MIT License. You may not use this file except in compliance w
 >
 > http://introtodeeplearning.com
 
-adios mundo cruel
+
+amo a mi elfa
